@@ -791,5 +791,143 @@
             "potassium": 1220
         },
         "tags": ["snack", "carb"]
-    }
+    },
+    {
+        "id": "red-rock-chips-chilli-salt",
+        "name": "Chips (Chilli & Sea Salt)",
+        "nutrition-per-100g": {
+            "energy": 2050,
+            "protein": 7.9,
+            "fat": 23.4,
+            "saturated-fat": 3.2,
+            "trans-fat": 0.1,
+            "polyunsaturated-fat": 1.7,
+            "monounsaturated-fat": 18.4,
+            "carbohydrate": 62,
+            "sugars": 2.4,
+            "dietary-fibre": 4,
+            "sodium": 579,
+            "potassium": 1220
+        },
+        "tags": ["snack", "carb"]
+    },
+    {
+        "id": "chicken-breast-grilled",
+        "name": "Grilled Chicken Breast",
+        "nutrition-per-100g": {
+            "energy": 1650,
+            "protein": 31.0,
+            "fat": 3.6,
+            "saturated-fat": 1.0,
+            "carbohydrate": 0,
+            "sugars": 0,
+            "dietary-fibre": 0,
+            "sodium": 50,
+            "potassium": 256
+        },
+        "tags": ["protein", "meat"]
+    },
+    {
+        "id": "beef-steak-grilled",
+        "name": "Grilled Beef Steak",
+        "nutrition-per-100g": {
+            "energy": 2500,
+            "protein": 26.0,
+            "fat": 20.0,
+            "saturated-fat": 8.0,
+            "carbohydrate": 0,
+            "sugars": 0,
+            "dietary-fibre": 0,
+            "sodium": 55,
+            "potassium": 330
+        },
+        "tags": ["protein", "meat"]
+    },
+    {
+        "id": "salmon-fillet",
+        "name": "Grilled Salmon Fillet",
+        "nutrition-per-100g": {
+            "energy": 1800,
+            "protein": 25.0,
+            "fat": 12.0,
+            "saturated-fat": 3.0,
+            "carbohydrate": 0,
+            "sugars": 0,
+            "dietary-fibre": 0,
+            "sodium": 60,
+            "potassium": 450
+        },
+        "tags": ["protein", "meat"]
+    },
+    {
+        "id": "turkey-breast-roasted",
+        "name": "Roasted Turkey Breast",
+        "nutrition-per-100g": {
+            "energy": 1350,
+            "protein": 30.0,
+            "fat": 1.2,
+            "saturated-fat": 0.3,
+            "carbohydrate": 0,
+            "sugars": 0,
+            "dietary-fibre": 0,
+            "sodium": 50,
+            "potassium": 330
+        },
+        "tags": ["protein", "meat"]
+    },
+    {
+        "id": "supl-whey-protein",
+        "name": "Whey Protein Powder",
+        "nutrition-per-100g": {
+            "energy": 400,
+            "protein": 80.0,
+            "carbohydrate": 10.0,
+            "fat": 5.0
+        },
+        "tags": ["supplement"]
+    },
+    {
+        "id": "supl-creatine-monohydrate",
+        "name": "Creatine Monohydrate",
+        "nutrition-per-100g": {
+            "energy": 0,
+            "protein": 0,
+            "carbohydrate": 0,
+            "fat": 0
+        },
+        "tags": ["supplement"]
+    },
+    {
+        "id": "supl-bcaas",
+        "name": "BCAAs (Branched-Chain Amino Acids)",
+        "nutrition-per-100g": {
+            "energy": 0,
+            "protein": 0,
+            "carbohydrate": 0,
+            "fat": 0
+        },
+        "tags": ["supplement"]
+    },
+    {
+        "id": "supl-caffeine-pills",
+        "name": "Caffeine Pills",
+        "nutrition-per-100g": {
+            "energy": 5000,
+            "protein": 0,
+            "carbohydrate": 0,
+            "fat": 0
+        },
+        "tags": ["supplement"]
+    },
+    {
+        "id": "supl-vitamin-d3",
+        "name": "Vitamin D3 Supplement",
+        "nutrition-per-100g": {
+            "energy": 0,
+            "protein": 0,
+            "carbohydrate": 0,
+            "fat": 0
+        },
+        "tags": ["supplement"]
+    },
 ]
